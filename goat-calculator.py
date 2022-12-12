@@ -14,12 +14,3 @@ if type_calcul == str("Division"):
         division_a = input('Entrez votre premier nombre : ')
         division_b = input('Entrez votre deuxième nombre : ')
         print(f"Le résultat de votre division : {float(division_a) / float(division_b)}")
-    
-
-
-
-
-
-# a = input("Entrez un nombre : ")
-# b = input("Entrez un nombre : ")
-# print(f'Le résultat de votre addition est {int(a) + int(b)}'
